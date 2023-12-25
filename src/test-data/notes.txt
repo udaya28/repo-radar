@@ -1,0 +1,13 @@
+API - https://api.github.com/users/{name}/starred
+queryParam - per_page={number} - MAX 100 DEFAULT 30
+queryParam - page={number} - DEFAULT 1
+
+https://api.github.com/users/udaya28/starred?per_page=100&page=1
+
+
+
+User API
+
+API - https://api.github.com/users/{name}
+
+https://api.github.com/users/udaya28
